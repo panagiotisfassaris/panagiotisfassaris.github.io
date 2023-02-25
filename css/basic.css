@@ -137,7 +137,7 @@ body.scroll_hidden {
 	font-size: 0;
 	pointer-events: none;
 	z-index: 1111;
-}*/
+}
 .lines.no-lines .line-col:before {
 	opacity: 0;
 }
@@ -295,7 +295,7 @@ body.scroll_hidden {
 
 .lines-on .lines .line-col:before {
 	display: block;
-}
+}*/
 
 @media (max-width: 1199px) {
 	.lines .line-col {
