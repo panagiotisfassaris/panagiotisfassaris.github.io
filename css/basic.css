@@ -295,7 +295,7 @@ body.scroll_hidden {
 
 .lines-on .lines .line-col:before {
 	display: block;
-}*/
+}
 
 @media (max-width: 1199px) {
 	.lines .line-col {
