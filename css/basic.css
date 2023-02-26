@@ -128,7 +128,7 @@ body.scroll_hidden {
 	z-index: 12;
 }
 
-/*.lines {
+.lines {
 	position: fixed;
 	top: 0;
 	left: 0;
