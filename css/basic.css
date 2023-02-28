@@ -142,7 +142,7 @@ body.scroll_hidden {
 	opacity: 0;
 }
 
-.lines .line-col {
+/*.lines .line-col {
 	position: relative;
 	display: inline-block;
 	vertical-align: top;
@@ -317,7 +317,7 @@ body.scroll_hidden {
 	.lines .line-col:nth-child(5) {
 		display: none;
 	}
-}
+}*/
 /* - Columns */
 .cols {
 	position: relative;
