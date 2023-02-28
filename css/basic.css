@@ -142,7 +142,7 @@ body.scroll_hidden {
 	opacity: 0;
 }
 
-/*.lines .line-col {
+.lines .line-col {
 	position: relative;
 	display: inline-block;
 	vertical-align: top;
@@ -170,7 +170,7 @@ body.scroll_hidden {
 	width: 1000%;
 }
 
-.lines .line-col:nth-child(1):before {
+/*.lines .line-col:nth-child(1):before {
 	-o-transition-delay: 2.9s;
 	-webkit-transition-delay: 2.9s;
 	transition-delay: 2.9s;
