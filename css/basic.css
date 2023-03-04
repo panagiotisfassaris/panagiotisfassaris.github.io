@@ -129,6 +129,10 @@ body.scroll_hidden {
 }
 
 .lines {
+display: none;
+}
+
+.lines {
 	position: fixed;
 	top: 0;
 	left: 0;
