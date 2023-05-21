@@ -129,7 +129,7 @@ body.scroll_hidden {
 }
 
 
-/*.lines {
+.lines {
 	position: fixed;
 	top: 0;
 	left: 0;
@@ -290,7 +290,7 @@ body.scroll_hidden {
 	margin: 0;
 }
 
-/*.lines-off .lines .line-col:before {
+.lines-off .lines .line-col:before {
 	display: none;
 }
 
@@ -318,7 +318,7 @@ body.scroll_hidden {
 	.lines .line-col:nth-child(5) {
 		display: none;
 	}
-}*/
+}
 /* - Columns */
 .cols {
 	position: relative;
